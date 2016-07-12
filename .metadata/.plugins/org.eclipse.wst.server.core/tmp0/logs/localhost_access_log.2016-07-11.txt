@@ -1,0 +1,16 @@
+127.0.0.1 - - [11/Jul/2016:21:17:56 -0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:18:33 -0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:18:40 -0300] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:18:40 -0300] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:19:53 -0300] "GET /Calendar)PerfilUsusario.xhtml HTTP/1.1" 404 1052
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:01 -0300] "GET /Calendar/PerfilUsusario.xhtml HTTP/1.1" 500 2232
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:22 -0300] "GET /Calendar/PerfilUsuario.xhtml HTTP/1.1" 200 4074
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:23 -0300] "GET /Calendar/javax.faces.resource/jquery/jquery.js.xhtml;jsessionid=86DA29DA8FDEA028BE6F5B87C8389F44?ln=primefaces HTTP/1.1" 200 105210
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:24 -0300] "GET /Calendar/javax.faces.resource/primefaces.js.xhtml;jsessionid=86DA29DA8FDEA028BE6F5B87C8389F44?ln=primefaces HTTP/1.1" 200 233831
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:24 -0300] "GET /Calendar/javax.faces.resource/jquery/jquery-plugins.js.xhtml;jsessionid=86DA29DA8FDEA028BE6F5B87C8389F44?ln=primefaces HTTP/1.1" 200 227903
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:25 -0300] "GET /Calendar/javax.faces.resource/primefaces.css.xhtml;jsessionid=86DA29DA8FDEA028BE6F5B87C8389F44?ln=primefaces HTTP/1.1" 200 50561
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:25 -0300] "GET /Calendar/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo HTTP/1.1" 200 28107
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:32 -0300] "GET /Calendar/javax.faces.resource/images/ui-icons_898989_256x240.png.xhtml?ln=primefaces-aristo HTTP/1.1" 200 5355
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:35 -0300] "GET /Calendar/javax.faces.resource/images/ui-icons_38667f_256x240.png.xhtml?ln=primefaces-aristo HTTP/1.1" 200 4369
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:45 -0300] "POST /Calendar/PerfilUsuario.xhtml;jsessionid=86DA29DA8FDEA028BE6F5B87C8389F44 HTTP/1.1" 200 2329
+0:0:0:0:0:0:0:1 - - [11/Jul/2016:21:20:45 -0300] "GET /Calendar/javax.faces.resource/messages/messages.png.xhtml?ln=primefaces HTTP/1.1" 200 27245
