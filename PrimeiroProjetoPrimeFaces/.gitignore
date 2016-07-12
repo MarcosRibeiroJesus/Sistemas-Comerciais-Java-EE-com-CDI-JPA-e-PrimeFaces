@@ -1,1 +1,15 @@
+# Ignorando pastas
 /target/
+
+/.metadata/
+/.settings/
+# Ignorando arquivos
+.classpath
+.project
+
+# Para arquivos Java compilados
+*.class
+# Para código C
+*.so
+# Para todos os arquivos e sub-pastas localizados na pasta bower_components/
+bower_components/
